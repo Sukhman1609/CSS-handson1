@@ -1,0 +1,52 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: red;
+    font-style: italic;
+}
+
+ol{
+    color: brown;
+}
+.con{
+    line-height: 50px;
+}
+
+.lt{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.bg{
+    font-weight: bold;
+    background-color: yellow;
+}
+
+#fourth{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+ul{
+    letter-spacing: 4px;
+    color: brown;
+    line-height: normal;
+}
+
+.fifth{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+p{
+    color:  #D35400;
+}
+
+a{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
